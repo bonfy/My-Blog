@@ -1,5 +1,10 @@
-# My-Blog
-bonfy's blog
+# BONFY 的 BLOG
+
+在 GitHub 上也记录一些 BONFY 的编程心得体会
+
+我还有一个BLOG([http://blog.bonfy.im](http://blog.bonfy.im)) 虽然折腾了半天，也已经能push GitHub后自动生成，但是还是觉得折腾起来费劲，以前也一直想学习下前辈们在GitHub上建立自己的BLOG,心动不如行动，也一起加入进来凑个热闹。
+
+## BLOG 文章
 
 
 ## GitHub项目[长期置顶]
